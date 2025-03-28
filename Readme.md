@@ -1,2 +1,3 @@
-"# git-course demo" 
-"# Sample-repo" 
+Hey Dev you are in right place!
+
+Say Namaste Git!!!
